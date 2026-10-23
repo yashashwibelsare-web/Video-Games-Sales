@@ -1,4 +1,4 @@
-Video Game Sales Analysis
+## Video Game Sales Analysis
 
 ## About the Project
 Video Game Sales Analysis is a Python-based data analytics project that focuses on understanding video game sales across different platforms, genres, publishers, and regions. In this project, I analyzed video game sales data to identify best-selling games, explore popular gaming genres, compare platform performance, and understand regional gaming preferences. The main purpose of this project is to discover useful insights from sales data using Python and data visualization techniques.
